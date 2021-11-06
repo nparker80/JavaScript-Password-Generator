@@ -15,32 +15,32 @@ The user will have the opportunity to personalize their password by:
 
 When the user clicks on the "Generate Password" button a user input prompt will appear
 
-![charatersPrompt](Images\Characters.png)
+![Characters](Images\Characters.png)
 <br>
 
 The user is asked to confirm the use of numbers
 
-![confirmNumbers](Images\Numbers.png)
+![Numbers](Images\Numbers.png)
 <br>
 
 The user is asked to confirm the use of special characters
 
-![confirmSpecialCharacters](Images\Special_Characters.png)
+![Special_Characters](Images\Special_Characters.png)
 <br>
 
 The user is asked to confirm the use of uppercase letters
 
-![confirmUpperCase](Images\Uppercase.png)
+![Uppercase](Images\Uppercase.png)
 <br>
 
 The user is asked to confirm the use of lowercase letters
 
-![confirmLowerCase](Images\Lowercase.png)
+![Lowercase](Images\Lowercase.png)
 <br>
 
 The random password is generated in the text area
 
-![generatedPassword](Images\Generated_Password.png)
+![Generated_Password](Images\Generated_Password.png)
 
 <br>
 <br>
