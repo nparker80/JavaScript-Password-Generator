@@ -45,5 +45,4 @@ The random password is generated in the text area
 <br>
 <br>
 <br>
-<a target="_blank" href="https://nparker80.github.io/JavaScript-Password-Generator
-">Link to Password Generator</a>
+<a target="_blank" href="https://nparker80.github.io/JavaScript-Password-Generator">Link to Password Generator</a>
