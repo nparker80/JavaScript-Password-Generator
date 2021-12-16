@@ -48,7 +48,9 @@ The random password is generated in the text area
 <br>
 <h2>Technoglogies Used</h2>
 *HTML5
+<br>
 *CSS
+<br>
 *Vanilla JavaScript
 <br>
 <br>
